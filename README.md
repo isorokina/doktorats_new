@@ -1,1 +1,1 @@
-# doktorats_new
+# projekts_doktorats2024
